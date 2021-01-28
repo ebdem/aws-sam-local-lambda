@@ -1,0 +1,30 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31     
+Resources:  
+  GetVersions:
+      Type: AWS::Serverless::Function
+      Properties:
+        Handler: versions.handler
+        Runtime: nodejs10.x
+        Timeout: 30
+        CodeUri: ./
+        Events:
+          GetEvent:
+            Type: Api
+            Properties:
+              Path: /versions
+              Method: GET
+  VersionTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: "TrackerVersion"
+      ProvisionedThroughput:
+        ReadCapacityUnits: 5
+        WriteCapacityUnits: 5
+      KeySchema:
+        - AttributeName: "ID"
+          KeyType: "HASH"
+      AttributeDefinitions:
+        - AttributeName: "ID"
+          AttributeType: "S"            
+ 

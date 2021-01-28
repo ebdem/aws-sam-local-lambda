@@ -1,0 +1,52 @@
+{
+    "TrackerVersion": [
+        {   
+            "PutRequest": {
+                "Item": { 
+                    "Id": {
+                        "S": "254"
+                    },
+                    "VersionNo": {
+                        "S": "v1.0.0"
+                    },
+                    "DeploymentTime": {
+                        "S": "2019-06-13 08:59:12"
+                    },
+                    "Description": {
+                        "S": "Firmalar ekranı mobil cihazlara uyumlu hale getirildi."
+                    },
+                    "DeveloperId": {
+                        "S": "6"
+                    },
+                    "CustomerCanSee": {
+                        "S": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": { 
+                    "Id": {
+                        "S": "255"
+                    },
+                    "VersionNo": {
+                        "S": "v1.0.0"
+                    },
+                    "DeploymentTime": {
+                        "S": "2019-06-13 08:59:12"
+                    },
+                    "Description": {
+                        "S": "Firmalar ekranı mobil cihazlara uyumlu hale getirildi."
+                    },
+                    "DeveloperId": {
+                        "S": "6"
+                    },
+                    "CustomerCanSee": {
+                        "S": "1"
+                    }
+                }
+            }
+        }
+    ]
+}

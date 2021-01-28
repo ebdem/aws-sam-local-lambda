@@ -1,0 +1,15 @@
+version: '3'
+services:
+ dynamodb-local:
+   image: amazon/dynamodb-local:latest
+   container_name: dynamodb-local
+   command: -jar DynamoDBLocal.jar -sharedDb -dbPath /home/dynamodblocal
+   volumes: 
+    - ./database:/home/dynamodblocal
+   ports:
+    - "8000:8000"
+   networks:
+      - proaktif-sam
+networks: 
+   proaktif-sam:
+      external: true

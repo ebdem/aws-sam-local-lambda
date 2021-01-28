@@ -1,0 +1,5382 @@
+[
+    {
+        "Id": {
+            "S": "1"
+        },
+        "VersionNo": {
+            "S": "v1.0.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 08:59:12"
+        },
+        "Description": {
+            "S": "Firmalar ekranı mobil cihazlara uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "2"
+        },
+        "VersionNo": {
+            "S": "v1.1.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 10:09:20"
+        },
+        "Description": {
+            "S": "Burs başvurusunda sertifika zorunluluğu getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "3"
+        },
+        "VersionNo": {
+            "S": "v1.1.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 11:40:58"
+        },
+        "Description": {
+            "S": "UBL Xml aktarımındaki ticari tanım boş atması sorunu düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "4"
+        },
+        "VersionNo": {
+            "S": "v1.1.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 11:45:00"
+        },
+        "Description": {
+            "S": "İhracat faturaları çıktıları düzenlendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "5"
+        },
+        "VersionNo": {
+            "S": "v1.2.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 12:56:30"
+        },
+        "Description": {
+            "S": "Şirket seçimi ve yazılım kullanıcıları ekranları mobil cihazlara uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "6"
+        },
+        "VersionNo": {
+            "S": "v1.2.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 13:02:39"
+        },
+        "Description": {
+            "S": "Tescilli beyanname kalemleri içerisinde kopyalama butonu pasif yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "7"
+        },
+        "VersionNo": {
+            "S": "v1.3.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 13:34:01"
+        },
+        "Description": {
+            "S": "Online kullanıcılar ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "8"
+        },
+        "VersionNo": {
+            "S": "v1.3.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 13:52:17"
+        },
+        "Description": {
+            "S": "Online kullanıcılar Kullanıcı adı ve İl/İlçe yeri değiştirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "9"
+        },
+        "VersionNo": {
+            "S": "v1.3.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 15:36:40"
+        },
+        "Description": {
+            "S": "İkinci açılır F9 pencereleri ortalandı"
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "10"
+        },
+        "VersionNo": {
+            "S": "v1.3.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-13 18:50:04"
+        },
+        "Description": {
+            "S": "Beyanname Xml Cevapları ekranı boyutları ve içinde açılır pencere ortalanması ayarlandı"
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "11"
+        },
+        "VersionNo": {
+            "S": "v1.4.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-14 11:10:08"
+        },
+        "Description": {
+            "S": "Referanslar menüsü Gümrük altına, Şifreler menüsü Ortak altına taşındı."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "12"
+        },
+        "VersionNo": {
+            "S": "v1.4.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-14 14:46:47"
+        },
+        "Description": {
+            "S": "Gümrük Parametreleri ekranına CIF Kıymet Banka Bilgisi Sorma alanı eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "13"
+        },
+        "VersionNo": {
+            "S": "v1.5.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-14 14:48:18"
+        },
+        "Description": {
+            "S": "Cif Kıymet tablosu PDF i için banka bilgileri giriş ekranı yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "14"
+        },
+        "VersionNo": {
+            "S": "v1.6.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-14 14:49:28"
+        },
+        "Description": {
+            "S": "İthalat beyannamelerine  Cif Kıymet Tablosu PDF i eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "15"
+        },
+        "VersionNo": {
+            "S": "v1.6.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-14 16:07:31"
+        },
+        "Description": {
+            "S": "Cif Kıymet tablosu PDF den Vergi Oranı alanı kaldırıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "16"
+        },
+        "VersionNo": {
+            "S": "v1.6.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-14 17:10:23"
+        },
+        "Description": {
+            "S": "Cif Kıymet tablosu çıktısı dikey olarak ayarlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "17"
+        },
+        "VersionNo": {
+            "S": "v1.7.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-14 20:28:50"
+        },
+        "Description": {
+            "S": "Destek karşılama ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "18"
+        },
+        "VersionNo": {
+            "S": "v1.8.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-17 14:36:26"
+        },
+        "Description": {
+            "S": "Her kullanıcı için bir kereliğine bilgi ve talep sordurulan ekran eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "19"
+        },
+        "VersionNo": {
+            "S": "v1.8.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-17 16:15:06"
+        },
+        "Description": {
+            "S": "Kayıt belgesi sorgulama sorunu düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "20"
+        },
+        "VersionNo": {
+            "S": "v1.8.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-17 17:16:26"
+        },
+        "Description": {
+            "S": "Cif kiymet tablosu PDF için gelen istekler yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "21"
+        },
+        "VersionNo": {
+            "S": "v1.9.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 11:09:40"
+        },
+        "Description": {
+            "S": "Destek ekranına müşterilerin yazdığı talep-önerileri gösteren buton eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "22"
+        },
+        "VersionNo": {
+            "S": "v1.9.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 12:17:27"
+        },
+        "Description": {
+            "S": "Ekbelgeler gridine sıra numarası eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "23"
+        },
+        "VersionNo": {
+            "S": "v1.9.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 13:42:05"
+        },
+        "Description": {
+            "S": "Ekbelgeler enterla alt satıra geçme sorunu düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "24"
+        },
+        "VersionNo": {
+            "S": "v1.9.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 15:34:51"
+        },
+        "Description": {
+            "S": "Cif Kıymet tablosu  genel hesaplamalara beyanname vergileri eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "25"
+        },
+        "VersionNo": {
+            "S": "v1.9.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 18:02:53"
+        },
+        "Description": {
+            "S": "Cif Kıymet tablosunun mail olarak gönderilmesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "26"
+        },
+        "VersionNo": {
+            "S": "v1.9.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 18:22:01"
+        },
+        "Description": {
+            "S": "EkBelge silince sira numarasını güncellemesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "27"
+        },
+        "VersionNo": {
+            "S": "v1.10.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 18:24:51"
+        },
+        "Description": {
+            "S": "Destek ekranı Mesaj alanı Guid XMLleri Formatlı ve renkli görüntülenmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "28"
+        },
+        "VersionNo": {
+            "S": "v1.10.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-18 18:26:29"
+        },
+        "Description": {
+            "S": "Gümrük cevapları Hatalı Cevap Xml görüntüleme problemi düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "29"
+        },
+        "VersionNo": {
+            "S": "v1.10.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 09:06:44"
+        },
+        "Description": {
+            "S": "Fazla mesai cevap sorgulama ekranında bütün mesajların gösterilmesi düzenlendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "30"
+        },
+        "VersionNo": {
+            "S": "v1.10.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 14:55:34"
+        },
+        "Description": {
+            "S": "Tablolarda tüm satırlar için üzerine gelindiğinde renk değişmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "31"
+        },
+        "VersionNo": {
+            "S": "v1.10.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 15:34:40"
+        },
+        "Description": {
+            "S": "OKS Mavi hat firma listesi excel aktarımı yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "32"
+        },
+        "VersionNo": {
+            "S": "v1.10.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 16:53:53"
+        },
+        "Description": {
+            "S": "Hizmet Faturasında Cari Kodu F9 ekranı büyütüldü."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "33"
+        },
+        "VersionNo": {
+            "S": "v1.10.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 17:49:04"
+        },
+        "Description": {
+            "S": "NCTS beyan satır üzerine gelindiğinde renk değişmesi problemi düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "34"
+        },
+        "VersionNo": {
+            "S": "v1.11.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 10:01:57"
+        },
+        "Description": {
+            "S": "Beyanname Listesi ve Gümrük Cevapları ekranları yavaşlık problemi çözüldü."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "35"
+        },
+        "VersionNo": {
+            "S": "v1.11.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 17:48:51"
+        },
+        "Description": {
+            "S": "Beyanname XML cevaplarında Giden XML görüntüleme problemi düzeltildi, Gelen XML in renkli ve formatlı gösterilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "36"
+        },
+        "VersionNo": {
+            "S": "v1.12.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 20:20:00"
+        },
+        "Description": {
+            "S": "Sürüm bilgisi ekranı arama yapılabilir ve mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "37"
+        },
+        "VersionNo": {
+            "S": "v1.13.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-19 16:23:12"
+        },
+        "Description": {
+            "S": "OKS Mavi hat listesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "38"
+        },
+        "VersionNo": {
+            "S": "v1.14.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-20 13:12:02"
+        },
+        "Description": {
+            "S": "Talep-öneri ekranına kişiye uyarı olarak gönderilen not alanı eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "39"
+        },
+        "VersionNo": {
+            "S": "v1.15.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-20 13:30:22"
+        },
+        "Description": {
+            "S": "Döviz kurları ekranına Yazdır eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "40"
+        },
+        "VersionNo": {
+            "S": "v1.15.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-20 13:31:31"
+        },
+        "Description": {
+            "S": "Beyanname listesinde fatura ve dekontun pencere olarak açılması eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "41"
+        },
+        "VersionNo": {
+            "S": "v1.15.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-20 13:35:21"
+        },
+        "Description": {
+            "S": "Beyanname listesinden arşiv oluşturulması eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "42"
+        },
+        "VersionNo": {
+            "S": "v1.16.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-20 15:28:37"
+        },
+        "Description": {
+            "S": "Uyarı ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "43"
+        },
+        "VersionNo": {
+            "S": "v1.17.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-20 23:30:42"
+        },
+        "Description": {
+            "S": "Gümrük hata mesajları ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "44"
+        },
+        "VersionNo": {
+            "S": "v1.18.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-21 02:20:42"
+        },
+        "Description": {
+            "S": "Gümrük hata yayını ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "45"
+        },
+        "VersionNo": {
+            "S": "v1.18.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-21 15:34:47"
+        },
+        "Description": {
+            "S": "OKS mavi hat listesinde koza müşterilerinin bulunması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "46"
+        },
+        "VersionNo": {
+            "S": "v1.19.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-24 15:12:31"
+        },
+        "Description": {
+            "S": "Beyanname açıklamaları ekranı yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "47"
+        },
+        "VersionNo": {
+            "S": "v1.19.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-24 15:13:18"
+        },
+        "Description": {
+            "S": "Tescile gönderirken açıklama kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "48"
+        },
+        "VersionNo": {
+            "S": "v1.20.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 03:11:59"
+        },
+        "Description": {
+            "S": "Acil durumlar için doğrudan İp adresi ile giriş ekranı eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "49"
+        },
+        "VersionNo": {
+            "S": "v1.20.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 11:30:16"
+        },
+        "Description": {
+            "S": "Beyanname kontrole gönderirken Yurtiçi diğer masraflar dolu ise ve yurtiçi diğer açıklama boş ise uyarı verilmesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "50"
+        },
+        "VersionNo": {
+            "S": "v1.20.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 11:34:39"
+        },
+        "Description": {
+            "S": "Beyanname kontrole gönderirken Yurtdışı diğer masraflar dolu ise ve yurtdışı diğer açıklama boş ise uyarı verilmesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "51"
+        },
+        "VersionNo": {
+            "S": "v1.21.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 12:58:47"
+        },
+        "Description": {
+            "S": "Yazılım kullanıcıları altında mail,sms gönderme vb. ekranlar mobil uyumu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "52"
+        },
+        "VersionNo": {
+            "S": "v1.22.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 12:59:33"
+        },
+        "Description": {
+            "S": "Kullanıcı şifre değişikliği ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "53"
+        },
+        "VersionNo": {
+            "S": "v1.22.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 14:32:45"
+        },
+        "Description": {
+            "S": "Teminat Sorgulama için TeminatGidenXml tablosuna gönderim sıra numarasının yazdırılması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "54"
+        },
+        "VersionNo": {
+            "S": "v1.22.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 15:13:52"
+        },
+        "Description": {
+            "S": "Tablo arkaplanları renk düzenlemesi duyurular tablosundaki bozukluk nedeniyle tüm tablo uyumlulukları için w3-css üzerinden değiştirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "55"
+        },
+        "VersionNo": {
+            "S": "v1.22.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 15:13:52"
+        },
+        "Description": {
+            "S": "Duyuru listesi arkaplan problemi düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "56"
+        },
+        "VersionNo": {
+            "S": "v1.22.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 15:19:30"
+        },
+        "Description": {
+            "S": "Online kullanıcılar bilgi giriş elemanı renk problemi düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "57"
+        },
+        "VersionNo": {
+            "S": "v1.22.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 17:38:30"
+        },
+        "Description": {
+            "S": "Teminat sorgulamada takılı kalan dosyaların tekrar gönderilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "58"
+        },
+        "VersionNo": {
+            "S": "v1.23.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 17:40:01"
+        },
+        "Description": {
+            "S": "Destek Eğitim mail ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "59"
+        },
+        "VersionNo": {
+            "S": "v1.23.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-25 18:52:42"
+        },
+        "Description": {
+            "S": "Gümrük Kalem, NCTS, NCTS Kalem, Özet Beyan, Ekranları mobilde yatayda kaydırılabilir hale getirildi"
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "60"
+        },
+        "VersionNo": {
+            "S": "v1.23.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-26 11:16:15"
+        },
+        "Description": {
+            "S": "Firmalar ekranınında İİKS No YFKS No olarak güncellendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "61"
+        },
+        "VersionNo": {
+            "S": "v1.23.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-26 11:32:59"
+        },
+        "Description": {
+            "S": "Ana ekranda talep ve destek ekranında talep var ise talep butonu yanıp sönen hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "62"
+        },
+        "VersionNo": {
+            "S": "v1.23.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-26 11:33:54"
+        },
+        "Description": {
+            "S": "Medos için birden fazla kullanıcısı olanlarda cevap çekmelerde kullanıcı ayrımı yapıldı."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "63"
+        },
+        "VersionNo": {
+            "S": "v1.24.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-26 16:30:49"
+        },
+        "Description": {
+            "S": "Şirket tanımı ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "64"
+        },
+        "VersionNo": {
+            "S": "v1.24.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-26 17:18:14"
+        },
+        "Description": {
+            "S": "Firmalar YFKSno İİKS olarak değişirilmesi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "65"
+        },
+        "VersionNo": {
+            "S": "v1.25.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-26 18:03:12"
+        },
+        "Description": {
+            "S": "Dolaşımbelgelerine 4Mb dosya yükleme sınırı eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "66"
+        },
+        "VersionNo": {
+            "S": "v1.26.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-27 14:07:15"
+        },
+        "Description": {
+            "S": "Beyanname ekranında kalemler butonu sağ click -Kalemleri Sil ekranı eklendi.  Ekranda seçilen kalemlerin silinmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "67"
+        },
+        "VersionNo": {
+            "S": "v1.25.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-27 14:14:54"
+        },
+        "Description": {
+            "S": "Alp gümrüklemenin kontrol çıktısı için istedikleri eklendi. Fazla Mesai Tüm Cevapları sorgulama eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "68"
+        },
+        "VersionNo": {
+            "S": "v1.26.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-27 14:30:11"
+        },
+        "Description": {
+            "S": "Yazılım kullanıcıları ekranına cinsiyet ve doğum tarihi alanları eklendi. Eklenen alanların ilgili tabloya update edilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "69"
+        },
+        "VersionNo": {
+            "S": "v1.26.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-27 14:59:35"
+        },
+        "Description": {
+            "S": "Beyanname listesinden yeni arşiv ekleyebilme özelliği eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "70"
+        },
+        "VersionNo": {
+            "S": "v1.26.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-27 15:59:10"
+        },
+        "Description": {
+            "S": "Kullanıcı grubu yetkileri mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "71"
+        },
+        "VersionNo": {
+            "S": "v1.26.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-28 12:29:07"
+        },
+        "Description": {
+            "S": "Kontrol Çıktısı düzenlendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "72"
+        },
+        "VersionNo": {
+            "S": "v1.26.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-28 14:35:47"
+        },
+        "Description": {
+            "S": "Gümrük cevapları ekranında Cevap Çek butonu çalışır duruma getirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "73"
+        },
+        "VersionNo": {
+            "S": "v1.26.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-28 14:38:16"
+        },
+        "Description": {
+            "S": "Şirket tanımı ekranında simetrik olmayan alanlar mobile uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "74"
+        },
+        "VersionNo": {
+            "S": "v1.26.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-06-29 17:22:32"
+        },
+        "Description": {
+            "S": "Tablolarda üzerine gelinen hücre belirginleştirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "75"
+        },
+        "VersionNo": {
+            "S": "v1.26.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-01 11:47:23"
+        },
+        "Description": {
+            "S": "Fatura mail metnine ekleme yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "76"
+        },
+        "VersionNo": {
+            "S": "v1.26.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-01 16:25:00"
+        },
+        "Description": {
+            "S": "Hizmet Faturasında Yeni ye tıklandığında Açık Flg nin Evet işateli getirildi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "77"
+        },
+        "VersionNo": {
+            "S": "v1.26.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-01 17:20:50"
+        },
+        "Description": {
+            "S": "Hizmet Faturası bs raporunda hesaplamadaki düzenleme geri alındı"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "78"
+        },
+        "VersionNo": {
+            "S": "v1.27.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-01 17:00:46"
+        },
+        "Description": {
+            "S": "Firma Kişilerinin doğum günlerini gösteren liste eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "79"
+        },
+        "VersionNo": {
+            "S": "v1.27.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-02 11:23:21"
+        },
+        "Description": {
+            "S": "Beyanname Raporuna Basit Usul Kodu eklendi"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "80"
+        },
+        "VersionNo": {
+            "S": "v1.27.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-02 13:59:58"
+        },
+        "Description": {
+            "S": "Yazılım kullanıcıları ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "81"
+        },
+        "VersionNo": {
+            "S": "v1.27.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-02 14:11:39"
+        },
+        "Description": {
+            "S": "UND Taşımacılığı firmaların excel aktarımı tamamlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "82"
+        },
+        "VersionNo": {
+            "S": "v1.28.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-02 17:56:55"
+        },
+        "Description": {
+            "S": "UND Taşımacılığı listesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "83"
+        },
+        "VersionNo": {
+            "S": "v1.28.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-02 18:04:04"
+        },
+        "Description": {
+            "S": "Tanıtım maillerinde mail başlığında değişiklik yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "84"
+        },
+        "VersionNo": {
+            "S": "v1.28.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-03 01:17:36"
+        },
+        "Description": {
+            "S": "Kredi kartı ile ödemelerde fatura son gününü geçirilenler Havale işlemine yönlendirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "85"
+        },
+        "VersionNo": {
+            "S": "v1.28.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-03 11:05:08"
+        },
+        "Description": {
+            "S": "UND taşımacılığı listesinde koza müşterisi kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "86"
+        },
+        "VersionNo": {
+            "S": "v1.28.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-03 11:49:38"
+        },
+        "Description": {
+            "S": "Hiznet Faturası BS raporda excel düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "87"
+        },
+        "VersionNo": {
+            "S": "v1.28.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-03 12:31:40"
+        },
+        "Description": {
+            "S": "Çimento-toprak ihracatçılar exceli aktarıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "88"
+        },
+        "VersionNo": {
+            "S": "v1.29.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-03 17:08:08"
+        },
+        "Description": {
+            "S": "Çimento toprak ihracatçılar listesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "89"
+        },
+        "VersionNo": {
+            "S": "v1.28.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-03 16:12:31"
+        },
+        "Description": {
+            "S": "5171 rejimli beyanlarda 0200 kodlu ekbelge otomatik getirildi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "90"
+        },
+        "VersionNo": {
+            "S": "v1.30.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-04 14:38:07"
+        },
+        "Description": {
+            "S": "Yaş meyve ihracatçılar listesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "91"
+        },
+        "VersionNo": {
+            "S": "v1.30.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-04 16:07:35"
+        },
+        "Description": {
+            "S": "Cari Hizmet Faturası Bs Raporunda Excel Düzenlendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "92"
+        },
+        "VersionNo": {
+            "S": "v1.10.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-05 14:10:28"
+        },
+        "Description": {
+            "S": "Dolasım Belgeleri cıktısın  indirildiğinde dosya adı belge no gelmesi ayarlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "93"
+        },
+        "VersionNo": {
+            "S": "v1.11.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-05 15:21:31"
+        },
+        "Description": {
+            "S": "Enerji firmaları listesi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "94"
+        },
+        "VersionNo": {
+            "S": "v1.12.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-08 14:06:52"
+        },
+        "Description": {
+            "S": "Beyanname Kalemde Marla Modele Imei No eklenmesi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "95"
+        },
+        "VersionNo": {
+            "S": "v1.12.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-08 19:08:05"
+        },
+        "Description": {
+            "S": "İhracatçı firma listeleri yeniden düzenlendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "96"
+        },
+        "VersionNo": {
+            "S": "v1.12.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-09 12:42:25"
+        },
+        "Description": {
+            "S": "Eğitim kurumları listesine excel aktarımı ve Yazdır eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "97"
+        },
+        "VersionNo": {
+            "S": "v1.12.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-09 14:02:27"
+        },
+        "Description": {
+            "S": "Doğumgünleri listesinde sms gönderildikten sonra sms gönderilme tarih saatin yazdırılması."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "98"
+        },
+        "VersionNo": {
+            "S": "v1.12.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-10 23:33:02"
+        },
+        "Description": {
+            "S": "Destek talebi sesli uyarı eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "99"
+        },
+        "VersionNo": {
+            "S": "v1.13.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-11 17:44:37"
+        },
+        "Description": {
+            "S": "İhracat beyannamesi mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "100"
+        },
+        "VersionNo": {
+            "S": "v1.13.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-11 17:45:13"
+        },
+        "Description": {
+            "S": "Hizmet faturası ve borç dekontlarına yazılma tarih saati eklendi. Dizaynda da çıkması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "101"
+        },
+        "VersionNo": {
+            "S": "v1.13.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-12 09:52:30"
+        },
+        "Description": {
+            "S": "Fazla mesaide Global Hesap ID eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "102"
+        },
+        "VersionNo": {
+            "S": "v1.13.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-12 17:26:36"
+        },
+        "Description": {
+            "S": "Kalem Sil ekranında çoklu kalemleri silmede oluşan sorun düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "103"
+        },
+        "VersionNo": {
+            "S": "v1.13.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-12 18:35:18"
+        },
+        "Description": {
+            "S": "Firmalar Girişini IIKS den YFKS dönüştürülmesi"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "104"
+        },
+        "VersionNo": {
+            "S": "v1.13.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-16 10:15:49"
+        },
+        "Description": {
+            "S": "Ncts excel aktarımı geçersiz gtip kontrolü düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "105"
+        },
+        "VersionNo": {
+            "S": "v1.13.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-16 12:41:41"
+        },
+        "Description": {
+            "S": "Ncts excel aktarımında notice veren alanlar ile ilgili kontrol eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "106"
+        },
+        "VersionNo": {
+            "S": "v1.13.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-17 14:59:08"
+        },
+        "Description": {
+            "S": "Firmalar ekranında yeniye basıldıgında Firma Hat Bilgisi boş gelmesi sağlandı. KKDF Gtip kontrolü kontrol gönderimi tescil göndeirmine eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "107"
+        },
+        "VersionNo": {
+            "S": "v1.13.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-18 10:18:05"
+        },
+        "Description": {
+            "S": "Giriş ekranına Şifre Unuttum eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "108"
+        },
+        "VersionNo": {
+            "S": "v1.14.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-18 18:20:23"
+        },
+        "Description": {
+            "S": "Firmalar ekranından E-Arşiv yapılması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "109"
+        },
+        "VersionNo": {
+            "S": "v1.14.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-19 10:43:34"
+        },
+        "Description": {
+            "S": "Beyanname Raporları gtıp no,mense ulke ve ticaret yapılann ülke bilgi.Beyanname Raporları gtıp no,mense ulke ve ticaret yapılann ülke bilgiler eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "110"
+        },
+        "VersionNo": {
+            "S": "v1.14.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-19 13:56:34"
+        },
+        "Description": {
+            "S": "KKDF tescil ve kontrol gönderimindeki kontrolün sadece Mal Mukabili ve Kredili Mal Mukaibilinde uyarı vermesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "111"
+        },
+        "VersionNo": {
+            "S": "v1.14.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-19 15:50:47"
+        },
+        "Description": {
+            "S": "Destek ekranı ekranın yukarı kayma problemi düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "112"
+        },
+        "VersionNo": {
+            "S": "v1.15.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-22 10:34:53"
+        },
+        "Description": {
+            "S": "Ubl Xml aktarımda birden fazla dosyanın aynı beyana aktarılabilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "113"
+        },
+        "VersionNo": {
+            "S": "v1.16.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-23 10:46:38"
+        },
+        "Description": {
+            "S": "Beyanname ekranına aynı özelliklere sahip kalemler için birleştirme eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "114"
+        },
+        "VersionNo": {
+            "S": "v1.16.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-23 11:23:29"
+        },
+        "Description": {
+            "S": "Gümrük listesinde uzun tanımların üst üste çıkması düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "115"
+        },
+        "VersionNo": {
+            "S": "v1.16.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-23 11:38:48"
+        },
+        "Description": {
+            "S": "EUR1 belgelerinde 1.kalem yerine 052 menşeli kaleme atacak şekilde düzenlendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "116"
+        },
+        "VersionNo": {
+            "S": "v1.16.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-24 10:28:05"
+        },
+        "Description": {
+            "S": "Kontrol çıktısında rica tanım ile acıklama 44 yazılar karısıyordu düzeltildi. Talep öneri ekranına acıklama eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "117"
+        },
+        "VersionNo": {
+            "S": "v1.16.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-25 13:34:54"
+        },
+        "Description": {
+            "S": "Ekli liste konteyner ismi düzetildi.Ncts ambar acmalar antrepo kalem no ile ncts kalem no sırası değiştirildi.Beyanname kalemlerinde kap adedine bilgi ekranı acılması eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "118"
+        },
+        "VersionNo": {
+            "S": "v1.16.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-26 16:10:26"
+        },
+        "Description": {
+            "S": "Eur1 de türk menşeli kalemlere eur1 belgesinin atması sağlandı"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "119"
+        },
+        "VersionNo": {
+            "S": "v1.16.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-29 16:23:48"
+        },
+        "Description": {
+            "S": "Beyananme sözleşme türlerinde Gecersizlerin gosterilmemesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "120"
+        },
+        "VersionNo": {
+            "S": "v1.16.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-31 18:00:14"
+        },
+        "Description": {
+            "S": "Kullanıcıların beyannamesinde düzeltme yapılamaz paramtresi işaretli olmasına bağlı olarak beyanname ve ona bağlı tüm ekranlarda kullanıcılara işlem yapılmaması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "121"
+        },
+        "VersionNo": {
+            "S": "v1.16.9"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 12:23:51"
+        },
+        "Description": {
+            "S": "Kullanıcı beyannamesinde değişiklik yapılamaz işaretli ise masraf dağıtımların yapılması engellendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "122"
+        },
+        "VersionNo": {
+            "S": "v1.17.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 13:56:29"
+        },
+        "Description": {
+            "S": "Beyanname durum sorgulama yaparken lisans kontrolü yapılması eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "123"
+        },
+        "VersionNo": {
+            "S": "v1.18.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 14:00:55"
+        },
+        "Description": {
+            "S": "S Olan Belgeler ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "124"
+        },
+        "VersionNo": {
+            "S": "v1.19.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 14:01:46"
+        },
+        "Description": {
+            "S": "Beyanname Kalem Sorgulama ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "125"
+        },
+        "VersionNo": {
+            "S": "v1.19.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 14:44:32"
+        },
+        "Description": {
+            "S": "Onaylı dolaşım belgelerinde Beyanname Güncelleme butonu pasif hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "126"
+        },
+        "VersionNo": {
+            "S": "v1.19.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 17:57:11"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerinde Bedelsiz etiketi değiştirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "127"
+        },
+        "VersionNo": {
+            "S": "v1.19.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 17:57:45"
+        },
+        "Description": {
+            "S": "Belge Arşivi ekranındaki butonlar düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "128"
+        },
+        "VersionNo": {
+            "S": "v1.19.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 18:21:43"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerine ambalaj kodu kopyala butonu eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "129"
+        },
+        "VersionNo": {
+            "S": "v1.19.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 18:22:15"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerine İşçilik bedeli kopyala butonu eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "130"
+        },
+        "VersionNo": {
+            "S": "v1.19.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 18:22:57"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerine Üretim Yılı kopyala butonu eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "131"
+        },
+        "VersionNo": {
+            "S": "v1.19.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 18:23:25"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerine Kota kopyala butonu eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "132"
+        },
+        "VersionNo": {
+            "S": "v1.19.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 18:24:13"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerine İplik cinsi kopyala butonu eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "133"
+        },
+        "VersionNo": {
+            "S": "v1.20.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-28 19:36:24"
+        },
+        "Description": {
+            "S": "Beyanname listesi ve beyanname üzerinden gümrük durum ve hat sorgulama eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "134"
+        },
+        "VersionNo": {
+            "S": "v1.20.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-29 12:43:10"
+        },
+        "Description": {
+            "S": "Ekran görüntüsü pencere boyutu dinamikleştirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "135"
+        },
+        "VersionNo": {
+            "S": "v1.20.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-30 12:46:59"
+        },
+        "Description": {
+            "S": "Kullanıcı kayıt problemi düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "136"
+        },
+        "VersionNo": {
+            "S": "v1.20.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-30 12:48:14"
+        },
+        "Description": {
+            "S": "Çıkış ve oturum kaybedildiğinde yönlendirme problemleri düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "137"
+        },
+        "VersionNo": {
+            "S": "v1.20.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-31 14:50:28"
+        },
+        "Description": {
+            "S": "Kullanıcı giriş ekranı açılış animasyonu ve arkaplanı eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "138"
+        },
+        "VersionNo": {
+            "S": "v1.20.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-07-31 15:52:51"
+        },
+        "Description": {
+            "S": "Kullanıcı giriş ekran boyutu dinamik olarak ayarlanarak kullanıcı sitelerinin düzgün gösterilmesi sağlandı. "
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "139"
+        },
+        "VersionNo": {
+            "S": "v1.20.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 16:55:59"
+        },
+        "Description": {
+            "S": "Netkoza Şirket Tanımı ekranı üzerinden demo şirketi oluşturulması eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "140"
+        },
+        "VersionNo": {
+            "S": "v1.20.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-02 16:58:26"
+        },
+        "Description": {
+            "S": "Kullanıcı giriş ekranında şirket siteleri açılmama problemi düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "141"
+        },
+        "VersionNo": {
+            "S": "v1.20.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-05 12:33:51"
+        },
+        "Description": {
+            "S": "Beyanname ve özet beyanda F9 gümrük kodu seçimin de gecersiz flg kontrolü eklenmesi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "142"
+        },
+        "VersionNo": {
+            "S": "v1.20.9"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-06 11:17:43"
+        },
+        "Description": {
+            "S": "Ncts-Tescil düzeltme gönderimlerinde lrn no kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "143"
+        },
+        "VersionNo": {
+            "S": "v1.20.10"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-08 03:23:32"
+        },
+        "Description": {
+            "S": "Mobil cihazlar için sertifika kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "144"
+        },
+        "VersionNo": {
+            "S": "v1.20.11"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-08 19:25:40"
+        },
+        "Description": {
+            "S": "Online kullanıcılara mobil bilgisi ve araması eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "145"
+        },
+        "VersionNo": {
+            "S": "v1.20.12"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-09 10:14:25"
+        },
+        "Description": {
+            "S": "Ncts teminat sorgulama xml IIKS nin YFKS ye cevrilmesi.Ncts teminat sorgulama xml IIKS nin YFKS ye cevrilmesi.Ncts Teminat hesabında xml de firmanın IIKS yerine YFKS olarak güncellenmesi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "146"
+        },
+        "VersionNo": {
+            "S": "v1.20.13"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-15 16:31:33"
+        },
+        "Description": {
+            "S": "İthalat ve Antrepo beyannamelerinde gönderici firma seçim penceresinde yurtiçi firmaların gözükmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "147"
+        },
+        "VersionNo": {
+            "S": "v1.20.14"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-15 19:23:44"
+        },
+        "Description": {
+            "S": "NY ekranındaki Fiyatları Güncelleme butonu şirketlere göre güncellenmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "148"
+        },
+        "VersionNo": {
+            "S": "v1.20.15"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-16 11:18:13"
+        },
+        "Description": {
+            "S": "Captcha ve 5xx ekranlarına özelleşmiş sayfalar eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "149"
+        },
+        "VersionNo": {
+            "S": "v1.20.16"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-16 12:21:45"
+        },
+        "Description": {
+            "S": "Beyanname excel aktarımında FaturaTutarı alanında yuvarlama yaparak aktarılması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "150"
+        },
+        "VersionNo": {
+            "S": "v1.21.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-16 12:39:51"
+        },
+        "Description": {
+            "S": "Yazılım Lisansları ekranı mobil cihazlara uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "151"
+        },
+        "VersionNo": {
+            "S": "v1.21.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-16 17:09:36"
+        },
+        "Description": {
+            "S": "Borç dekontları dizaynında GTİPNo alanın kaydedilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "152"
+        },
+        "VersionNo": {
+            "S": "v1.21.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-16 17:10:07"
+        },
+        "Description": {
+            "S": "Borç dekontları dizaynında Brüt kilo alanı küsüratlı gösterilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "153"
+        },
+        "VersionNo": {
+            "S": "v1.22.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-19 23:34:12"
+        },
+        "Description": {
+            "S": "Konteyner numaraları kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "154"
+        },
+        "VersionNo": {
+            "S": "v1.23.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-20 13:35:57"
+        },
+        "Description": {
+            "S": "Tescil gönderiminde ekbelgesi yazılmamış tarife sorusu cevapları için kontrol eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "155"
+        },
+        "VersionNo": {
+            "S": "v1.24.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-20 13:36:36"
+        },
+        "Description": {
+            "S": "Beyanname listesi ekranına kalan kontör sorgulama butonu eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "156"
+        },
+        "VersionNo": {
+            "S": "v1.25.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-20 13:37:31"
+        },
+        "Description": {
+            "S": "Kullanıcı lisans işlemleri ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "157"
+        },
+        "VersionNo": {
+            "S": "v1.26.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-21 09:39:13"
+        },
+        "Description": {
+            "S": "Hizmet faturası ekranı mobil uyumlu hale getirildi"
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "158"
+        },
+        "VersionNo": {
+            "S": "v1.27.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 10:38:07"
+        },
+        "Description": {
+            "S": "Beyanname listesine kalan kontör bilgisi eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "159"
+        },
+        "VersionNo": {
+            "S": "v1.27.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 10:39:33"
+        },
+        "Description": {
+            "S": "Serbest bölge gümrüklerinde SBIF belgesinin tekrarlı atması sorunu giderildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "160"
+        },
+        "VersionNo": {
+            "S": "v1.27.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 11:26:06"
+        },
+        "Description": {
+            "S": "Beyanname tescile gönderilirken istatistiki kiymet kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "161"
+        },
+        "VersionNo": {
+            "S": "v1.27.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 11:29:30"
+        },
+        "Description": {
+            "S": "Beyanname excel aktarımında fatura tutarının küsuratların yuvarlanarak aktarılması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "162"
+        },
+        "VersionNo": {
+            "S": "v1.27.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 11:50:43"
+        },
+        "Description": {
+            "S": "Beyanname kontrol çıktısına muayene memuru alanı eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "163"
+        },
+        "VersionNo": {
+            "S": "v1.27.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 14:58:01"
+        },
+        "Description": {
+            "S": "Gümrükten gelen cevaplardan 0103-Kıymet belgesinin kaydedilmesi engellendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "164"
+        },
+        "VersionNo": {
+            "S": "v1.27.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 10:57:21"
+        },
+        "Description": {
+            "S": "Destek ekranı dolaşımbelgeleri ayrı ayrı eklendi, doğrudan açılması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "165"
+        },
+        "VersionNo": {
+            "S": "v1.27.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-22 15:05:33"
+        },
+        "Description": {
+            "S": "Kullanıcı lisans ekranında label adlarında değişiklik yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "166"
+        },
+        "VersionNo": {
+            "S": "v1.27.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-26 11:27:25"
+        },
+        "Description": {
+            "S": "Yazılım lisansları ekranındaki checkboxlar çalışır duruma getirildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "167"
+        },
+        "VersionNo": {
+            "S": "v1.27.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-26 13:37:26"
+        },
+        "Description": {
+            "S": "Birlik gönderimleri ve cevapları destek ekranına eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "168"
+        },
+        "VersionNo": {
+            "S": "v.1.28.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-26 17:43:11"
+        },
+        "Description": {
+            "S": "Dosya tanımlama ekranı yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "169"
+        },
+        "VersionNo": {
+            "S": "v.1.28.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-27 11:43:57"
+        },
+        "Description": {
+            "S": "Dosya tanımlama ekranından beyanname oluşturma eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "170"
+        },
+        "VersionNo": {
+            "S": "v.1.28.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-27 13:04:54"
+        },
+        "Description": {
+            "S": "Beyanname ekranından yeni kayıt açıldığında dosya kaydının da oluşması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "171"
+        },
+        "VersionNo": {
+            "S": "v.1.28.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-27 14:46:32"
+        },
+        "Description": {
+            "S": "Dosya tanımlama ekranında beyannamedeki dosya numarasını bozmadan, dosya no oluşturulması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "172"
+        },
+        "VersionNo": {
+            "S": "v.1.28.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-27 15:47:59"
+        },
+        "Description": {
+            "S": "Dosya tanımlama ekranında Beyanname oluştur butonuna daha önce oluşturulan beyanname var ise seçeneğe göre beyannameye geç özelliği eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "173"
+        },
+        "VersionNo": {
+            "S": "v1.28.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-27 16:15:02"
+        },
+        "Description": {
+            "S": "Dosya tanımlama ekranına yeni alanlar eklendi. (Dosya tarihi, Brüt ve Net kilo için ölçü birimleri)"
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "174"
+        },
+        "VersionNo": {
+            "S": "v1.28.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-27 17:50:40"
+        },
+        "Description": {
+            "S": "Dosya tanımlama ekranında Alıcı ve Gönderici firma seçimlerinde rejime göre firma getirmesi kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "175"
+        },
+        "VersionNo": {
+            "S": "v1.28.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-27 18:52:53"
+        },
+        "Description": {
+            "S": "Dosya tanımlama ekranında atanan kişi, beyanname oluşturuldu mu bilgisi, tescil no ve birlik onay numarası bilgileri ile kullanıcıya bilgi mesajları gösterildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "176"
+        },
+        "VersionNo": {
+            "S": "v1.28.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-28 17:14:28"
+        },
+        "Description": {
+            "S": "Dolaşımbelgeleri mail gönderimine eklendi, mail gönder ekranı mobil uyumlu hale getirildi"
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "177"
+        },
+        "VersionNo": {
+            "S": "v1.28.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-29 10:32:29"
+        },
+        "Description": {
+            "S": "Beyananame rejimi 8200 ve 8100 oldugunda beyan tipinin DG gösterilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "178"
+        },
+        "VersionNo": {
+            "S": "v1.28.9"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-29 11:57:58"
+        },
+        "Description": {
+            "S": "Ncts Yazdırda Sınırdaki tasıma şekli cıktıda görünmesi sağlandı. Yazılım kullanıcıları ara pencerine Ceo eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "179"
+        },
+        "VersionNo": {
+            "S": "v1.28.10"
+        },
+        "DeploymentTime": {
+            "S": "2019-08-29 17:16:19"
+        },
+        "Description": {
+            "S": "Hizmet Faturası ve Borc dekontlarında gecerli yıl  fatura yılı kontorlü eklendi"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "180"
+        },
+        "VersionNo": {
+            "S": "v1.29.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-02 11:48:56"
+        },
+        "Description": {
+            "S": "Borç dekontu ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "181"
+        },
+        "VersionNo": {
+            "S": "v1.30.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-02 11:49:23"
+        },
+        "Description": {
+            "S": "Smm ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "182"
+        },
+        "VersionNo": {
+            "S": "v1.31.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-02 11:50:24"
+        },
+        "Description": {
+            "S": "Makbuzlar ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "183"
+        },
+        "VersionNo": {
+            "S": "v1.32.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-02 11:50:43"
+        },
+        "Description": {
+            "S": "Banka belgeleri ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "184"
+        },
+        "VersionNo": {
+            "S": "v1.33.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-02 11:50:59"
+        },
+        "Description": {
+            "S": "Mahsup fişleri ekranı mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "185"
+        },
+        "VersionNo": {
+            "S": "v1.33.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-03 09:37:15"
+        },
+        "Description": {
+            "S": "SSM,Banka Belgeleri,Makbuzlar,Mahsup Fişleri yıl no kontrolü eklendi. NCTS Esyalarda Konteynerın ekrana düzgün yazdırılması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "186"
+        },
+        "VersionNo": {
+            "S": "v1.34.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-03 11:32:28"
+        },
+        "Description": {
+            "S": "Cari parametreleri ve geçerli yıl ekranları mobil uyumlu hale getirildi."
+        },
+        "DeveloperId": {
+            "S": "13937"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "187"
+        },
+        "VersionNo": {
+            "S": "v1.34.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-04 16:28:02"
+        },
+        "Description": {
+            "S": "Beyanname cıktısı ve kontrol cıktısına tescilli oldugunda E-imzalıdır yazısı eklendi"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "188"
+        },
+        "VersionNo": {
+            "S": "v1.34.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-05 11:24:47"
+        },
+        "Description": {
+            "S": "İthalat Beyannamesinde Gözetim tekrarlı gelmesi engellendi. Dolasım belgelerinde xmlde ihracatcı yer bilgisi ihracatcı adres ile birleştirilerek gönderilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "189"
+        },
+        "VersionNo": {
+            "S": "v1.35.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-05 14:07:48"
+        },
+        "Description": {
+            "S": "Duyuru ve mesaj yayını güncellendi.(Kullanıcı mesajı okuduğunda okunmuş olarak işaretleniyor)"
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "190"
+        },
+        "VersionNo": {
+            "S": "v1.35.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-09 10:57:35"
+        },
+        "Description": {
+            "S": "Cari Fatura beyanname raporunun düzenlenmesi"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "191"
+        },
+        "VersionNo": {
+            "S": "v1.35.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-12 11:11:25"
+        },
+        "Description": {
+            "S": "Beyananme KKDF gtip kontrolünde Antrepo beyanında mesaj çıktıgında onalyıp devam etmesine izin verilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "192"
+        },
+        "VersionNo": {
+            "S": "v1.35.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-13 10:20:34"
+        },
+        "Description": {
+            "S": "Sirket Tanımı ekranında Ara gec acılıyordu beyanname sorgusundan dolayı şimdilik kapatıldı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "193"
+        },
+        "VersionNo": {
+            "S": "v1.35.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-13 11:06:01"
+        },
+        "Description": {
+            "S": "Gtip arama penceresine Stok Kodu ile arama eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "194"
+        },
+        "VersionNo": {
+            "S": "v1.35.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-16 13:11:54"
+        },
+        "Description": {
+            "S": "Beyananme listesinde müşteri firma elemanında beyanlar eksik geliyordu."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "195"
+        },
+        "VersionNo": {
+            "S": "v1.36.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-16 14:10:40"
+        },
+        "Description": {
+            "S": "Beyanname Kalemlerine Esya Geri Gelme Sebebini eklenmesi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "196"
+        },
+        "VersionNo": {
+            "S": "v1.36.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-09-17 11:25:19"
+        },
+        "Description": {
+            "S": "Beyanname Geri Gelen Esyada düzeltme sorununun giderilmesi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "197"
+        },
+        "VersionNo": {
+            "S": "v1.36.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-01 12:43:07"
+        },
+        "Description": {
+            "S": "Koza müşterilerinde NY kaydı olmayan firmaların yazdır sorunu düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "198"
+        },
+        "VersionNo": {
+            "S": "v1.36.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-01 12:43:45"
+        },
+        "Description": {
+            "S": "İhracat faturası çıktısında genel toplamın yazı ile gösterilmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "199"
+        },
+        "VersionNo": {
+            "S": "v1.36.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-03 12:32:01"
+        },
+        "Description": {
+            "S": "İhracat beyannamelerinde beyanname kopyalama özelliğine imalatçı firmalar kopyalanması ve imalatçı bilgilerinin kalemlerdeki Açıklama_44 alana atılması eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "200"
+        },
+        "VersionNo": {
+            "S": "v1.36.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-03 16:54:37"
+        },
+        "Description": {
+            "S": "Tescile gönderirken İstatistiki kıymet ve Fatura toplamı kontrolündeki sorun düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "201"
+        },
+        "VersionNo": {
+            "S": "v1.36.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-08 10:14:02"
+        },
+        "Description": {
+            "S": "Kalemde ödeme şekli özel takas ise ve ek belgelerde 0991 var ise ve beyannamede nakit teminat yazılmadı ise uyarının ihracat dısında gösterilmesi ayarlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "202"
+        },
+        "VersionNo": {
+            "S": "v1.36.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-08 14:26:21"
+        },
+        "Description": {
+            "S": "Beyanname Miktarının İstatiski Miktarda bilgi varsa kopyalanmasının kaldırılması."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "203"
+        },
+        "VersionNo": {
+            "S": "v1.36.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-08 15:06:47"
+        },
+        "Description": {
+            "S": "Doğum günü listesi ve excelleri düzenlendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "204"
+        },
+        "VersionNo": {
+            "S": "v1.36.9"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-08 17:07:21"
+        },
+        "Description": {
+            "S": "Koza Extre ekranına fatura tarihi ile ilgili kontroller eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "205"
+        },
+        "VersionNo": {
+            "S": "v1.37.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-09 09:15:52"
+        },
+        "Description": {
+            "S": "Resim ekleme ve kişisel bilgilerin değiştirilebileceği Hesabım ekranı eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "206"
+        },
+        "VersionNo": {
+            "S": "v1.37.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-09 09:16:55"
+        },
+        "Description": {
+            "S": "Kalan kontor cevap gelince kaydedilerek listede kaydedilen bilgilern getirildi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "207"
+        },
+        "VersionNo": {
+            "S": "v1.37.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-09 10:32:08"
+        },
+        "Description": {
+            "S": "Beyanname Ekbelgelere Excel aktarım eklendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "208"
+        },
+        "VersionNo": {
+            "S": "v1.37.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-09 10:32:46"
+        },
+        "Description": {
+            "S": "Arşiv ekranında dosya yüklemeden arşiv eklenmeye çalışıldığında arşiv dosyası yüklenmelidir kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "209"
+        },
+        "VersionNo": {
+            "S": "v1.37.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-09 10:51:56"
+        },
+        "Description": {
+            "S": "Beyanname kalemleri Nakliyeci Kopyalama da değişiklik yapıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "210"
+        },
+        "VersionNo": {
+            "S": "v1.37.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-10 13:37:41"
+        },
+        "Description": {
+            "S": "Kalemlerde Ödeme şekillerine Transfer tarihi eklendi. Ödeme şekillerine kopyalanması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "211"
+        },
+        "VersionNo": {
+            "S": "v1.37.4"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-10 17:41:50"
+        },
+        "Description": {
+            "S": "Kalemler Ödeme şekillerinde Transfer tarihi ile ekbelge oluşturulması eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "212"
+        },
+        "VersionNo": {
+            "S": "v1.37.5"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-11 10:45:25"
+        },
+        "Description": {
+            "S": "UBL Xml aktarımında TPS no ve belge tarihi alanına bilgi girilme zorunluluğu kaldırıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "213"
+        },
+        "VersionNo": {
+            "S": "v1.37.6"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-11 13:46:25"
+        },
+        "Description": {
+            "S": "UBL Xml aktarımında Fatura numarası ve tarihi ile kalemlerde 0100 fatura ekbelge oluşturulması sağlandı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "214"
+        },
+        "VersionNo": {
+            "S": "v1.37.7"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-11 13:47:22"
+        },
+        "Description": {
+            "S": "NY Toplam listes ups kargo exceline şirketin subdomain adresi eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "215"
+        },
+        "VersionNo": {
+            "S": "v1.37.8"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-11 15:03:48"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerinde ve GTIP Arama ekranında Gtip No alanına uzunluk kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "216"
+        },
+        "VersionNo": {
+            "S": "v1.37.9"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-11 17:07:10"
+        },
+        "Description": {
+            "S": "Konteyner ekli listeye konteyner sıra numaraları eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "217"
+        },
+        "VersionNo": {
+            "S": "v1.38.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-11 18:17:23"
+        },
+        "Description": {
+            "S": "Beyanname kalemlerinde kopyalama mesajlarında onay mesajları kaldırıldı."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "218"
+        },
+        "VersionNo": {
+            "S": "v1.38.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-12 02:02:00"
+        },
+        "Description": {
+            "S": "Ncts Listesi gösterilen kayıt sayısı seçimi eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "219"
+        },
+        "VersionNo": {
+            "S": "v1.38.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-12 15:13:26"
+        },
+        "Description": {
+            "S": "Online kullanıcılara bağlı olunan sunucu bilgisi eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "221"
+        },
+        "VersionNo": {
+            "S": "v1.38.2"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-14 11:09:42"
+        },
+        "Description": {
+            "S": "Doğum günü listesinde güncellenmemişler sorgusuna telefon numarası kontrolü eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "222"
+        },
+        "VersionNo": {
+            "S": "v1.38.3"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-14 14:24:32"
+        },
+        "Description": {
+            "S": "Online kullanıcılara eksi bakiyeleri göstermemesi için kontrol eklendi."
+        },
+        "DeveloperId": {
+            "S": "43"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "223"
+        },
+        "VersionNo": {
+            "S": "v1.39.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-15 13:45:08"
+        },
+        "Description": {
+            "S": "Cari Silme işlemi ve fatura dekonta iptal edildiğinde geri alınması."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "224"
+        },
+        "VersionNo": {
+            "S": "v1.39.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-16 23:57:33"
+        },
+        "Description": {
+            "S": "Gümrük menüsü beyanname kalemleri ekranında aramalara sınırlandırmalar getirildi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "225"
+        },
+        "VersionNo": {
+            "S": "v1.40.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-10-28 13:16:16"
+        },
+        "Description": {
+            "S": "Kalem ekranında gözetim miktarlarının gösterilmesi"
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "226"
+        },
+        "VersionNo": {
+            "S": "v1.40.1"
+        },
+        "DeploymentTime": {
+            "S": "2019-11-01 13:50:14"
+        },
+        "Description": {
+            "S": "Birlik ekranları için ftp timeout ve soket timeoutlar eklendi."
+        },
+        "DeveloperId": {
+            "S": "196"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "227"
+        },
+        "VersionNo": {
+            "S": "v1.41.0"
+        },
+        "DeploymentTime": {
+            "S": "2019-12-09 12:27:25"
+        },
+        "Description": {
+            "S": "KozaMevzuat ana ekran ve kalemlere eklendi."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "228"
+        },
+        "VersionNo": {
+            "S": "v1.41.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-02-03 15:13:56"
+        },
+        "Description": {
+            "S": "Beyanname Kalem ekranında,Çoklu kişiselleşmiş gtipler için Birden fazla Kalemde birleştirme güncellemesi verildi."
+        },
+        "DeveloperId": {
+            "S": "8039"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "229"
+        },
+        "VersionNo": {
+            "S": "v1.42.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-02-03 15:48:12"
+        },
+        "Description": {
+            "S": "programa ekleme yapıldı"
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "230"
+        },
+        "VersionNo": {
+            "S": "v1.43.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-02-27 08:58:56"
+        },
+        "Description": {
+            "S": "Tescil işlemi tamamlandıktan sonra xml verilerinin otomatik s3 e aktarım yapılması saplandı."
+        },
+        "DeveloperId": {
+            "S": "6"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "231"
+        },
+        "VersionNo": {
+            "S": "v1.44.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-03-16 17:28:30"
+        },
+        "Description": {
+            "S": "İhracatta Dolaşım Belgelerinde Taslak görselinin üst tarafına MEDOS TASLAK YAZDIR butonu eklenmiştir."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "232"
+        },
+        "VersionNo": {
+            "S": "v1.45.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-03-25 18:52:26"
+        },
+        "Description": {
+            "S": "MENÜ VE KALEM EKRANINDA BULUNAN MEVZUAT SORGULAMA EKRANINA YARDIRMA ÖZELLİĞİ EKLENMİŞTİR."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "233"
+        },
+        "VersionNo": {
+            "S": "v1.46.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-03-29 20:47:13"
+        },
+        "Description": {
+            "S": "Serbest Meslek Makbuzu Yeni sistem E-SMM şeklinde ve Yeni ekranı ile Birden Fazla Masraf satırı girilebilecek şekli ile düzenlemesi yapılıp sistemde güncellenmiştir."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "234"
+        },
+        "VersionNo": {
+            "S": "v1.47.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-06 13:45:54"
+        },
+        "Description": {
+            "S": "MASRAF TALEP FORMU SİSTEME EKLENMİŞTİR."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "235"
+        },
+        "VersionNo": {
+            "S": "v1.47.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-09 12:29:32"
+        },
+        "Description": {
+            "S": "Menşe belgesinde ki taslak sorunu düzeltilmiştir."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "236"
+        },
+        "VersionNo": {
+            "S": "v1.47.2"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-09 12:33:15"
+        },
+        "Description": {
+            "S": "chorome üzeinde ekran boyutu Yüzde 100 den yüzde 90 veya daha fazla düşürüldüğünde sayfanın en altına gri bir kolan gelmesi sorunu düzeltildi..."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "237"
+        },
+        "VersionNo": {
+            "S": "v1.47.3"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-17 11:49:03"
+        },
+        "Description": {
+            "S": "Gözetim listesi Güncellemesi Verilmiştir."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "238"
+        },
+        "VersionNo": {
+            "S": "v1.48.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-20 10:46:51"
+        },
+        "Description": {
+            "S": "Duyuru ekranının koza kullanıcı grubunda da gösterilmesi...."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "239"
+        },
+        "VersionNo": {
+            "S": "v1.49.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-21 10:07:13"
+        },
+        "Description": {
+            "S": "Antrepo Takip Sistemi Ekranının Güncellenmesi Ana ekranda açık olan antrepo beyannamelerinin listelenmesi.."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "240"
+        },
+        "VersionNo": {
+            "S": "v1.50.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-21 10:48:48"
+        },
+        "Description": {
+            "S": "Özet beyan sistemine set satırlarına konteyner yük durumu eklemesi yapılıp güncelleme verildi"
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "241"
+        },
+        "VersionNo": {
+            "S": "v1.51.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-22 15:56:09"
+        },
+        "Description": {
+            "S": "Masraf Talep Formunda Beyananme Vergilerinin İstege bağlı pfd de gösterilmesi..."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "242"
+        },
+        "VersionNo": {
+            "S": "v1.52.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-04-22 15:57:13"
+        },
+        "Description": {
+            "S": "GÜMRÜGE GÖNDERİM YAPARKEN GÜMRÜKTEN GELEN SON CEVABI GÜNCELLEMEDİNİZ MESAJI ALAN KULLANICLARA MESAJIN ALTINA GÜMRÜK CEVABI DİYE BİR BUTON EKLENMESİ.."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "243"
+        },
+        "VersionNo": {
+            "S": "v1.53.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-05-06 13:07:52"
+        },
+        "Description": {
+            "S": "EK BELGELERE GÜMRÜKTEN GELMEYEN MENŞE BELGELERİNİN PROGRAMDAN AKTARILMASI..."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "244"
+        },
+        "VersionNo": {
+            "S": "v1.53.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-05-06 13:09:10"
+        },
+        "Description": {
+            "S": "LİNKLER MENÜSÜNDE -GÜMRÜK EDİ REFERANSLARI- LİNKİNİN GÜNCELLENMESİ..."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "245"
+        },
+        "VersionNo": {
+            "S": "v1.53.2"
+        },
+        "DeploymentTime": {
+            "S": "2020-05-06 13:52:32"
+        },
+        "Description": {
+            "S": "BEYANNAME ÖN YÜZÜNDEKİ 19 KONTEYNER ALANI BEYANNAMYE DÜZELT DEMEDEN DEĞİŞTİRİLEBİLİYORDU DÜZELTİLDİ.."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "246"
+        },
+        "VersionNo": {
+            "S": "v1.53.3"
+        },
+        "DeploymentTime": {
+            "S": "2020-05-06 13:56:21"
+        },
+        "Description": {
+            "S": "MÜŞAVİR GÜM. DE İTH. BEYANNAME ÖN YÜZÜNDE VERGİLER EKRANINDA FİRMA BİLGİLERİ YANLIŞ ÇIKIYORDU. DÜZELTİLDİ.."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "247"
+        },
+        "VersionNo": {
+            "S": "v1.53.4"
+        },
+        "DeploymentTime": {
+            "S": "2020-05-06 14:10:46"
+        },
+        "Description": {
+            "S": "ORTAK MENÜSÜ ALTINDA -- ŞİFRELER -- BİLGE KULLANICI KODLARI EKRANINDA ---NETKOZA GRUBU HARİCİNDEKİ TÜM GRUPLARDA YENİ BUTONUNU PASİF HALE GETİRİLDİ..FİRMALARIN KARNELİ EKLEMESİ ENGELLENDİ.."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "248"
+        },
+        "VersionNo": {
+            "S": "v1.54.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-05-07 11:08:15"
+        },
+        "Description": {
+            "S": "İHRACATTA HAVAYOLU GÜMRÜKLERİNDE 0104 ve 1070 BELGE KODLARININ EK BELGELERE OTOMATİK EKLENMESİ."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "249"
+        },
+        "VersionNo": {
+            "S": "v1.55.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-06-10 09:16:52"
+        },
+        "Description": {
+            "S": "Gözetim Gtipleri Güncellendi."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "250"
+        },
+        "VersionNo": {
+            "S": "v1.56.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-06-11 10:31:56"
+        },
+        "Description": {
+            "S": "İhracatta Hangi Ülkeye Hangi Dolaşım Belgesi Düzenlenmesi gerektiği güncellemesi"
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "251"
+        },
+        "VersionNo": {
+            "S": "v1.56.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-06-22 14:11:48"
+        },
+        "Description": {
+            "S": "KALEMDE EK BELGELER DE TÜM KALEMLERDE KOPYALA VAR TARİH,REF.VEYA DOĞRULAMABU ÜÇ ALANI VEYA SADECE BİRİNİ SEÇİP DİĞER KALEMLERE KOPYALAMA YAPILIYOR  EK BELGELERDEN BİR BELGE SEÇMEDEN BU EKRANI AÇARLARSA KOPYALAMA YAPILMIYOR. DÜZELTİLDİ.."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "252"
+        },
+        "VersionNo": {
+            "S": "v1.57.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-06-25 13:02:10"
+        },
+        "Description": {
+            "S": "DÖVİZ KURLARI VE İMZALAMA İSTEKLERİNİN AYRI PENCEREDE AÇILMASI"
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "253"
+        },
+        "VersionNo": {
+            "S": "v1.57.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-06-25 13:03:55"
+        },
+        "Description": {
+            "S": "NCTS LİSTESİNDEKİ SUTUN ARALMALARINDAKİ SORUNUN DÜZELTİLMESİ..."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "254"
+        },
+        "VersionNo": {
+            "S": "v1.57.2"
+        },
+        "DeploymentTime": {
+            "S": "2020-07-02 12:17:11"
+        },
+        "Description": {
+            "S": "Medos Servislerinin Güncellemesi Yapıldı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "255"
+        },
+        "VersionNo": {
+            "S": "v1.58.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-07-10 08:09:56"
+        },
+        "Description": {
+            "S": "Cari smm de onay alındıgında ekrandakı yazdır dizaynlı çıktıgı acıyordu.düzeltildi. Onay alınmıssa onaylı cıktı onaylı değilse normal cıktı gösterilecek şekilde ayarlandı."
+        },
+        "DeveloperId": {
+            "S": "62"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "256"
+        },
+        "VersionNo": {
+            "S": "v1.58.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-07-14 17:46:22"
+        },
+        "Description": {
+            "S": "gümrük referanslarında ambar kodlarında netkoza personelinin ambar kodlarında değişiklik yapabilmesi sağlanmıştır."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "257"
+        },
+        "VersionNo": {
+            "S": "v1.58.2"
+        },
+        "DeploymentTime": {
+            "S": "2020-07-14 17:48:11"
+        },
+        "Description": {
+            "S": "İmzalama istekleri ekranında ki satır silince ekran kendini yenilemiyordu yenilenmesi sağlandı."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "258"
+        },
+        "VersionNo": {
+            "S": "v1.59.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-07-14 17:50:05"
+        },
+        "Description": {
+            "S": "NCTS sisteminde gönderim yetkisi olmayan kullanıcıların tescil butonuna sağ masue yapınca yetkiniz bulunmamaktadır mesajı verildi. Bu işlem parametrik olarak yapıldı. İsteyen firmalar yetkisi olmayan kullanıcılarada isterlerse sorgulama yaptırabilirler."
+        },
+        "DeveloperId": {
+            "S": "4"
+        },
+        "CustomerCanSee": {
+            "S": "0"
+        }
+    },
+    {
+        "Id": {
+            "S": "259"
+        },
+        "VersionNo": {
+            "S": "v1.59.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-11 12:46:23"
+        },
+        "Description": {
+            "S": "İhracat Beyannamesinde ihracat faturası xml aktarımında aktarım aşamasında çıkan hatalar düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "260"
+        },
+        "VersionNo": {
+            "S": "v1.59.2"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-11 15:59:01"
+        },
+        "Description": {
+            "S": "XML AKTARMA EKRANINDA DA TEK KALEMLİ GTİPLER LİSTEDE GÖZÜKMÜYOR TEK KALEMLERİ DE LİSTEDE GÖSTERELİM.."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "261"
+        },
+        "VersionNo": {
+            "S": "v1.59.3"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-11 16:18:04"
+        },
+        "Description": {
+            "S": "Özet Beyan Senet Ekranında Senet Satırları girilen alanda KAP CİNSİ:KN olduğunda"
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "262"
+        },
+        "VersionNo": {
+            "S": "v1.60.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-12 14:32:49"
+        },
+        "Description": {
+            "S": "Caride İade faturası için E-FATURA ÇALIŞMASI NAZLI HN TARAFINDAN TAMAMLANDI.."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "263"
+        },
+        "VersionNo": {
+            "S": "v1.60.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-16 13:58:07"
+        },
+        "Description": {
+            "S": "TCGB açmalarda boş bırakılan alan olduğunda gümrükten SOPA hatsı geliyordu. Boş Bırakılan kalemler için uyarı mesajı eklendi."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "264"
+        },
+        "VersionNo": {
+            "S": "v1.60.2"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-16 14:02:34"
+        },
+        "Description": {
+            "S": "Beyanname tescile gönderilirken ek damga vergisi olduğu durumlarda kullanıcının karşısına menşe belgeniz var EK DAMGA VERGİSİ GİRİN diye ekran açıyoruz ek belgelerde menşe belgesi olmayıp diğer belgelerden olabiliryor.. Hangi belgeden dolayı bu mesajı çıkarıyorsak mesaja o belgeleri yazdıralım.."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "265"
+        },
+        "VersionNo": {
+            "S": "v1.60.3"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-16 14:03:57"
+        },
+        "Description": {
+            "S": "NCTS DE gümrükten gelen statülerin tarihleri ile KOZA dakitarihler farklı gösteriliyordu düzeltildi."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "266"
+        },
+        "VersionNo": {
+            "S": "v1.61.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-16 15:30:24"
+        },
+        "Description": {
+            "S": "Kalem ekranında Muhafiyet Alanına KKDF muhafiyeti girildiğinde Kalem açıklama alanına Tebliğ yazması programa eklenerek güncelleme verilmiştir."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "267"
+        },
+        "VersionNo": {
+            "S": "v1.62.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-20 14:31:18"
+        },
+        "Description": {
+            "S": "TESCİL GÖNDERİM AŞAMASINDA BEYANNAMEYE YETKİLİ BİR KULLANICI TARAFINDAN GÖNDERİLEBİLİR SEÇENEĞİNİN İŞARETLENMESİ GÜNCELLEMESİ..."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "268"
+        },
+        "VersionNo": {
+            "S": "v1.62.1"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-24 10:02:59"
+        },
+        "Description": {
+            "S": "S Olan belgeler Gümrük Menüsünün altından alınıp Takip Menüsünün Altına alınmıştır.."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "269"
+        },
+        "VersionNo": {
+            "S": "v1.62.2"
+        },
+        "DeploymentTime": {
+            "S": "2020-11-24 11:56:27"
+        },
+        "Description": {
+            "S": "İthalat beyannamesi, Özet beyan açma işleminde Taşıma senedi Satır No alanına HARF karakteri girilmesi engellenmiştir.."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    },
+    {
+        "Id": {
+            "S": "270"
+        },
+        "VersionNo": {
+            "S": "v1.63.0"
+        },
+        "DeploymentTime": {
+            "S": "2020-12-22 14:25:01"
+        },
+        "Description": {
+            "S": "İTHALAT BEYANNAMESİ EKRANINA SAYMANLIK BİLGİSİ EKLENMİŞTİR......."
+        },
+        "DeveloperId": {
+            "S": "23769"
+        },
+        "CustomerCanSee": {
+            "S": "1"
+        }
+    }
+]

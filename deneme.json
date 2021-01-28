@@ -1,0 +1,10 @@
+[
+    {
+        "ID": "99",
+        "VersionNo": "v1.0.0",
+        "DeploymentTime": "2019-06-13 08:59:12",
+        "Description": "Firmalar ekranı mobil cihazlara uyumlu hale getirildi.",
+        "DeveloperId":"6",
+        "CustomerCanSee": "1"
+    }
+]
